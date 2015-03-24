@@ -1,4 +1,6 @@
 # Rails_backward
+[![Gem Version](https://badge.fury.io/rb/rails_backward.svg)](https://github.com/Gnodiah/rails_backward)
+![](http://ruby-gem-downloads-badge.herokuapp.com/rails_backward?type=total&color=green)
 
 Didn't you realize that some useful and awesome features are provided by Rails 4 but your applications are using Rails 3.x ?
 What should you do if you want to use these features? Yes, as you see, **rails_backward** is here for you. It provides backward
