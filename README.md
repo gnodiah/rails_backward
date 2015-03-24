@@ -19,7 +19,7 @@ compatibility for some features in higher versions of Rails to lower versions of
 Put the following line to your Gemfile:
 
 ```ruby
-gem 'rails_backward', '~> 0.0.1'
+gem 'rails_backward', '>= 0.0.2'
 ```
 
 then,
