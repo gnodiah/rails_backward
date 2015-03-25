@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Hayden Wei"]
   s.email       = ["haidongrun@gamil.com"]
   s.homepage    = ""
-  s.summary     = %q{Provides some features of Rails 4 into Rails 3.x}
-  s.description = %q{Provides some features of Rails 4 into Rails 3.x}
+  s.summary     = %q{Make some features of Rails 4 can be used in Rails 3.x applications}
+  s.description = %q{Make some features of Rails 4 can be used in Rails 3.x applications}
   s.files       = `git ls-files`.split("\n")
   s.license     = 'MIT'
   s.homepage    = 'https://github.com/Gnodiah/rails_backward'
